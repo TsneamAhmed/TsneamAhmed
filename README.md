@@ -49,8 +49,7 @@
 
 ## 📚 Education
 - 🎓 **B.Sc. Computer Engineering & Software Systems**  
-  Ain Shams University & University of East London (Dual Degree, 2021–2026)  
-  GPA: 3.3  
+  Ain Shams University & University of East London (Dual Degree, 2021–2026)
 
 ---
 
@@ -62,12 +61,6 @@
 - Cybersecurity → Security assessment of Prompt Injection Attacks  
 - SmartEye → Real-time object detection system (YOLO)  
 - Online Banking System, E-Commerce websites, Distributed Systems, FinTech Apps, etc.  
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TsneamAhmed&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TsneamAhmed&layout=compact&theme=tokyonight)  
 
 ---
 
